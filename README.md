@@ -5,7 +5,7 @@
 <!-- Bagian Animasi Teks Kedip -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=500&size=26&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=Software+Engineer;Fullstack+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=500&size=26&pause=1000&color=007BFF;FF0000&center=true&vCenter=true&width=500&lines=Software+Engineer;Fullstack+Developer" alt="Typing SVG" />
   </a>
 </p>
 
