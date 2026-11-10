@@ -17,7 +17,7 @@
 - 🌱 I’m currently learning **Next.js, React, Node.js, and Cybersecurity**
 - 👯 I’m looking to collaborate on **Web Development & Roblox Game Projects**
 - 💬 Ask me about **Next.js, Laravel, Python, & Prisma ORM**
-- 📫 How to reach me: **your.email@gmail.com**
+- 📫 How to reach me: **agusdanaadnyana33@gmail.com**
 - ⚡ Fun fact: **I love coding, customizing my workspace, and exploring new tools**
 
 ### 🛠 Tech Stack
