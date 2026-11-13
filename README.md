@@ -53,8 +53,6 @@
 
 ## 📈 Growth Chart
 
-> Angka di bawah hanyalah **contoh**. Ubah sesuai level skill dan tahun kamu yang sebenarnya.
-
 ```mermaid
 %%{init: {"theme":"dark","themeVariables":{"xyChart":{"backgroundColor":"#0A0E27","titleColor":"#00D4FF","xAxisLabelColor":"#9FDCFF","yAxisLabelColor":"#9FDCFF","xAxisTitleColor":"#9FDCFF","yAxisTitleColor":"#9FDCFF","xAxisLineColor":"#0B3D91","yAxisLineColor":"#0B3D91","plotColorPalette":"#0B3D91, #00D4FF, #0EA5E9"}}}}%%
 xychart-beta
