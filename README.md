@@ -1,6 +1,6 @@
 <!-- ========== HEADER 3D (WAVING) ========== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E27,45:0B3D91,100:00D4FF&height=260&section=header&text=Agus%20Dana&fontSize=64&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Software%20Developer%20%7C%20Bali%2C%20Indonesia&descSize=20&descAlignY=60&descColor=BFEFFF" alt="header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E27,45:0B3D91,100:00D4FF&height=260&section=header&text=Agus%20Dana&fontSize=64&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Software%20Engineer%20%7C%20Bali%2C%20Indonesia&descSize=20&descAlignY=60&descColor=BFEFFF" alt="header" width="100%"/>
 </p>
 
 <!-- ========== TYPING ANIMATION ========== -->
